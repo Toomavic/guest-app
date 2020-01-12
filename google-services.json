@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "997888562110",
+    "firebase_url": "https://guesto-6dc8f.firebaseio.com",
+    "project_id": "guesto-6dc8f",
+    "storage_bucket": "guesto-6dc8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997888562110:android:49480431c1476985",
+        "android_client_info": {
+          "package_name": "com.guesto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997888562110-411671dp74qfmobrs2vkbhf1pf82ld8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDldOscrXj_AdanN8sYsn17dZhbjfnTBvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997888562110-411671dp74qfmobrs2vkbhf1pf82ld8j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "997888562110-s568ckn1l9o8lfse4678sccop6vc3qra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "guesto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
